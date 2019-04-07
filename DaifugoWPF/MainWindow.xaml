@@ -1,0 +1,18 @@
+﻿<Window x:Class="DaifugoWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DaifugoWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="522.167" Width="725.511" Loaded="Window_Loaded" KeyDown="Window_KeyDown">
+    <Grid>
+        <Button Content="join" HorizontalAlignment="Left" Margin="333,348,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <TextBox x:Name="name_text" HorizontalAlignment="Left" Height="43" Margin="180,119,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="231" FontSize="22" Text="nekokojpn"/>
+        <Label Content="Name:(記号及び日本語不可)" HorizontalAlignment="Left" Margin="122,75,0,0" VerticalAlignment="Top" FontSize="22"/>
+        <Label Content="Port: 8888" HorizontalAlignment="Left" Margin="121,189,0,0" VerticalAlignment="Top" FontSize="22"/>
+        <TextBox x:Name="ip_text" HorizontalAlignment="Left" Height="43" Margin="179,288,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="231" FontSize="22" Text="192.168.1.10"/>
+        <Label Content="Ip address:" HorizontalAlignment="Left" Margin="121,244,0,0" VerticalAlignment="Top" FontSize="22"/>
+
+    </Grid>
+</Window>

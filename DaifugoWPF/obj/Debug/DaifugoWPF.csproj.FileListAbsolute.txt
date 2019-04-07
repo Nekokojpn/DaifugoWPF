@@ -1,0 +1,36 @@
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\DaifugoWPF\DaifugoWPF\bin\Debug\DaifugoWPF.exe.config
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\DaifugoWPF\DaifugoWPF\bin\Debug\DaifugoWPF.exe
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\DaifugoWPF\DaifugoWPF\bin\Debug\DaifugoWPF.pdb
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\DaifugoWPF\DaifugoWPF\obj\Debug\DaifugoWPF.csprojAssemblyReference.cache
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\DaifugoWPF\DaifugoWPF\obj\Debug\game.g.cs
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\DaifugoWPF\DaifugoWPF\obj\Debug\MainWindow.g.cs
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\DaifugoWPF\DaifugoWPF\obj\Debug\App.g.cs
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\DaifugoWPF\DaifugoWPF\obj\Debug\DaifugoWPF_MarkupCompile.cache
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\DaifugoWPF\DaifugoWPF\obj\Debug\DaifugoWPF_MarkupCompile.lref
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\DaifugoWPF\DaifugoWPF\obj\Debug\game.baml
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\DaifugoWPF\DaifugoWPF\obj\Debug\MainWindow.baml
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\DaifugoWPF\DaifugoWPF\obj\Debug\DaifugoWPF.g.resources
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\DaifugoWPF\DaifugoWPF\obj\Debug\DaifugoWPF.Properties.Resources.resources
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\DaifugoWPF\DaifugoWPF\obj\Debug\DaifugoWPF.csproj.GenerateResource.cache
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\DaifugoWPF\DaifugoWPF\obj\Debug\DaifugoWPF.csproj.CoreCompileInputs.cache
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\DaifugoWPF\DaifugoWPF\obj\Debug\DaifugoWPF.exe
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\DaifugoWPF\DaifugoWPF\obj\Debug\DaifugoWPF.pdb
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\DaifugoWPF\DaifugoWPF\bin\Debug\DaifugoWPF.exe.config
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\DaifugoWPF\DaifugoWPF\bin\Debug\DaifugoWPF.exe
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\DaifugoWPF\DaifugoWPF\obj\Debug\DaifugoWPF.csprojAssemblyReference.cache
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\DaifugoWPF\DaifugoWPF\obj\Debug\game.g.cs
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\DaifugoWPF\DaifugoWPF\obj\Debug\MainWindow.g.cs
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\DaifugoWPF\DaifugoWPF\obj\Debug\App.g.cs
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\DaifugoWPF\DaifugoWPF\obj\Debug\DaifugoWPF_MarkupCompile.cache
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\DaifugoWPF\DaifugoWPF\obj\Debug\DaifugoWPF_MarkupCompile.lref
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\DaifugoWPF\DaifugoWPF\obj\Debug\game.baml
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\DaifugoWPF\DaifugoWPF\obj\Debug\MainWindow.baml
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\DaifugoWPF\DaifugoWPF\obj\Debug\DaifugoWPF.g.resources
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\DaifugoWPF\DaifugoWPF\obj\Debug\DaifugoWPF.Properties.Resources.resources
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\DaifugoWPF\DaifugoWPF\obj\Debug\DaifugoWPF.csproj.GenerateResource.cache
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\DaifugoWPF\DaifugoWPF\obj\Debug\DaifugoWPF.csproj.CoreCompileInputs.cache
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\DaifugoWPF\DaifugoWPF\obj\Debug\DaifugoWPF.exe
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\DaifugoWPF\DaifugoWPF\obj\Debug\DaifugoWPF.pdb
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\DaifugoWPF\DaifugoWPF\bin\Debug\DaifugoWPF.pdb
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\DaifugoWPF\DaifugoWPF\obj\Debug\stanim.g.cs
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\DaifugoWPF\DaifugoWPF\obj\Debug\stanim.baml
